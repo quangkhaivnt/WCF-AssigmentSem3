@@ -1,0 +1,12 @@
+E:\Web Service\WCFAssignment\WCFAssignment\bin\WCFAssignment.dll.config
+E:\Web Service\WCFAssignment\WCFAssignment\bin\WCFAssignment.dll
+E:\Web Service\WCFAssignment\WCFAssignment\bin\WCFAssignment.pdb
+E:\Web Service\WCFAssignment\WCFAssignment\bin\EntityFramework.dll
+E:\Web Service\WCFAssignment\WCFAssignment\bin\EntityFramework.SqlServer.dll
+E:\Web Service\WCFAssignment\WCFAssignment\bin\EntityFramework.xml
+E:\Web Service\WCFAssignment\WCFAssignment\bin\EntityFramework.SqlServer.xml
+E:\Web Service\WCFAssignment\WCFAssignment\obj\Debug\WCFAssignment.csproj.CoreCompileInputs.cache
+E:\Web Service\WCFAssignment\WCFAssignment\obj\Debug\WCFAssignment.csproj.CopyComplete
+E:\Web Service\WCFAssignment\WCFAssignment\obj\Debug\WCFAssignment.dll
+E:\Web Service\WCFAssignment\WCFAssignment\obj\Debug\WCFAssignment.pdb
+E:\Web Service\WCFAssignment\WCFAssignment\obj\Debug\WCFAssignment.csprojAssemblyReference.cache
